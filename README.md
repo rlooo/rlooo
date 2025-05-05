@@ -15,12 +15,12 @@
 <div markdown="1">
 
 
-|출시|프로젝트|소개|github|바로가기|
-|:-:|:-|:-|:-:|:-:|
-|<sub>2025.03</sub> | **⭐️ DocuLink** | Atlassian Confluence apps | [🐈](https://github.com/rlooo/DocuLink/tree/main) | [🔗](https://marketplace.atlassian.com/apps/1236812/doculink?hosting=cloud&tab=overview)  |
-|<sub>2025.07</sub> | **🎆 Fienmee** | 행사 정보 커뮤니티 앱 | [🐈](https://github.com/Beyond-Imagination/fienmee) | |
-|<sub>2022.11</sub> | **✈️ EnjoyTrip** | 여행 정보 웹사이트 | [🐈](https://github.com/rlooo/EnjoyTrip_Backend) &nbsp; [🐈](https://github.com/rlooo/EnjoyTrip_Frontend) | |
-|<sub>2022.11</sub> | **🔭 Telescope** | Jetbrains Space Plugins | [🐈](https://github.com/Beyond-Imagination/telescope-be) &nbsp; [🐈](https://github.com/Beyond-Imagination/telescope-fe)| [🔗](https://plugins.jetbrains.com/plugin/20332-telescope) |
+|Period|Project|Introduction|github|Link|Tech Stack|
+|:-:|:-|:-|:-:|:-:|:-:|
+|<sub>2025.03</sub> | **⭐️ DocuLink** | Atlassian Confluence apps | [🐈](https://github.com/rlooo/DocuLink/tree/main) | [🔗](https://marketplace.atlassian.com/apps/1236812/doculink?hosting=cloud&tab=overview)  | |
+|<sub>2025.07</sub> | **🎆 Fienmee** | 행사 정보 커뮤니티 앱 | [🐈](https://github.com/Beyond-Imagination/fienmee) | | |
+|<sub>2022.11</sub> | **✈️ EnjoyTrip** | 여행 정보 웹사이트 | [🐈](https://github.com/rlooo/EnjoyTrip_Backend) &nbsp; [🐈](https://github.com/rlooo/EnjoyTrip_Frontend) | | |
+|<sub>2022.11</sub> | **🔭 Telescope** | Jetbrains Space Plugins | [🐈](https://github.com/Beyond-Imagination/telescope-be) &nbsp; [🐈](https://github.com/Beyond-Imagination/telescope-fe)| [🔗](https://plugins.jetbrains.com/plugin/20332-telescope) | |
 
 
 </div>
@@ -30,7 +30,7 @@
 <summary>Activity</summary>
 <div markdown="1">
   
-|기간|활동|기수|
+|Period|Experience|Role|
 |:-:|-:|:-|
 |<sub>2023.01 ~ </sub> | **현대오토에버** | Professional |
 |<sub>2022.09 ~ </sub> | 전국 연합 IT 동아리 **Beyond-Imgaination** | PM Backend Frontend DevOps |
