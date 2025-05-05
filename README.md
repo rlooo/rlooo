@@ -19,7 +19,7 @@
 |:-:|:-|:-|:-:|:-:|
 |<sub>2025.07</sub> | **🎆 Fienmee** | 행사 정보 커뮤니티 앱 | [🐈](https://github.com/Beyond-Imagination/fienmee) | |
 |<sub>2022.11</sub> | **✈️ EnjoyTrip** | 여행 정보 웹사이트 | [🐈](https://github.com/rlooo/EnjoyTrip_Backend) &nbsp; [🐈](https://github.com/rlooo/EnjoyTrip_Frontend) | |
-|<sub>2022.11</sub> | **🔭 Telescope** | Jetbrains Space Plugins | [🐈](https://github.com/Beyond-Imagination/telescope-be) &nbsp; [🐈](https://github.com/Beyond-Imagination/telescope-fe)|[🔗]([https://instoolgram.seondal.kr](https://plugins.jetbrains.com/plugin/20332-telescope)) |
+|<sub>2022.11</sub> | **🔭 Telescope** | Jetbrains Space Plugins | [🐈](https://github.com/Beyond-Imagination/telescope-be) &nbsp; [🐈](https://github.com/Beyond-Imagination/telescope-fe)| [🔗](https://plugins.jetbrains.com/plugin/20332-telescope) |
 
 
 </div>
